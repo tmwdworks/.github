@@ -4,13 +4,13 @@ Finalized public brand assets for TMWD Works.
 
 ## Files
 
-- `tmwd-works-logo.png` — finalized raster reference on white
-- `tmwd-works-logo-transparent.png` — transparent-background logo
-- `tmwd-works-logo.svg` — vector-traced logo for scalable use
-- `tmwd-works-logo-monochrome.png` — monochrome transparent PNG
-- `tmwd-works-logo-monochrome.svg` — monochrome vector version
-- `tmwd-works-icon.png` — square/compact icon for profile images
-- `tmwd-works-icon.svg` — scalable compact icon
+- `tmwdworks-logo.png` — finalized raster reference on white
+- `tmwdworks-logo-transparent.png` — transparent-background logo
+- `tmwdworks-logo.svg` — vector-traced logo for scalable use
+- `tmwdworks-logo-monochrome.png` — monochrome transparent PNG
+- `tmwdworks-logo-monochrome.svg` — monochrome vector version
+- `tmwdworks-icon.png` — square/compact icon for profile images
+- `tmwdworks-icon.svg` — scalable compact icon
 - `brand-colors.json` — fixed brand color values
 
 ## Brand colors
